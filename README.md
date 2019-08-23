@@ -4,8 +4,6 @@ A quick introduction to concurrency in Go, for people familiar with Imperative o
 
 Each lab is designed to take 2-3 hours depending on your previous experience. The first 3 labs have associated preparation lectures. It is recommended that you spend an hour before each lab, going through the lecture and playing with the provided code.
 
----
-
 ## Lab :one:
 
 ### Introduction to imperative programming in Go
@@ -13,8 +11,6 @@ Each lab is designed to take 2-3 hours depending on your previous experience. Th
 You will become familiar with Go's syntax and features. 
 
 > This lab will assume that you already know at least one other Imperative or Object-oriented language. A basic understanding of pointers is also required.
-
----
 
 ## Lab :two:
 
@@ -24,15 +20,11 @@ This lab will teach you basics of concurrent computing. You will be introduced t
 
 > No previous experience of using threads or channels is required.
 
----
-
 ## Lab :three:
 
 ### Advanced concurrency
 
 You will get to experience more complicated patterns in concurrent programming. You will get to modify your quiz from Lab 1 to include a 5s timeout and you will investigate costs and benefits to performing merge sort using hundreds of goroutines.
-
----
 
 ## Lab :four:
 
