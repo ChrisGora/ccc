@@ -6,7 +6,7 @@ Each lab is designed to take 2-3 hours depending on your previous experience. Th
 
 ## Lab :one: - Introduction to imperative programming in Go
 
-You will become familiar with Go's syntax and features. 
+You will become familiar with Go's syntax and features. The lab focuses on those aspects of the language that are relevant and useful for the future labs.
 
 > This lab will assume that you already know at least one other Imperative or Object-oriented language. A basic understanding of pointers is also required.
 
@@ -25,3 +25,7 @@ You will get to experience more complicated patterns in concurrent programming. 
 This final lab will focus on concurrency without using channels. The classic memory-sharing model is introduced, including POSIX-style semaphores, mutexes and condition variables. The final question of this lab asks you to write a Bank Simulator using both memory-sharing and channels, asking you to apply all the skills you have gathered throughout the course.
 
 > Note that this lab does not yet have an associated lecture. You will need at least a basic understanding of mutexes and semaphores to succeed.
+
+---
+
+The above lectures and labs were originally developed for University of Bristol Concurrent Computing Unit (COMS20001) by Chris Gora under the supervision of Dr. Sion Hannuna.
