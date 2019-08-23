@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Some of the presented code snippets and comments have been adapted and modified
+from tour.golang.org under the BSD-3 license. 
+
+Copyright (c) 2011 The Go Authors.
+
+Some of the presented code snippets and comments have been adapted and modified
+from gobyexample.com under the CC 3.0 license.
+
+Copyright (c) Mark McGranaghan.
